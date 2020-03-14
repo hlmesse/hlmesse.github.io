@@ -13,3 +13,27 @@ https://www.youtube.com/missioaustria
   target="_blank">
 Playlist "MISSIO-LIVE"
 </a>
+
+
+## Radio Maria Österreich (Audio)
+
+_<a
+   href="https://www.radiomaria.at/"
+   target="_blank">
+   https://www.radiomaria.at/
+</a>_
+
+<a
+  href="https://www.radiomaria.at/unser-programm/programmheft/"
+  target="_blank">
+Details im Programmheft.
+</a>
+
+Werktags gewöhnlich um 8 Uhr.
+
+<a
+  href="https://www.radiomaria.at/fullscreen-radio-stream/"
+  target="_blank">
+Zum Livestream
+(https://www.radiomaria.at/fullscreen-radio-stream/)
+</a>
