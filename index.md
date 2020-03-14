@@ -43,3 +43,27 @@ Werktags gewöhnlich um 8 Uhr.
 Zum Livestream
 (https://www.radiomaria.at/fullscreen-radio-stream/)
 </a>
+
+
+## Stift Heiligenkreuz (Video)
+
+_<a
+   href="https://www.stift-heiligenkreuz.org/"
+   target="_blank">
+   https://www.stift-heiligenkreuz.org/
+</a>_
+
+Jeden Montag um 18 Uhr.
+
+<a
+  href="https://www.stift-heiligenkreuz.org/livestream/"
+  target="_blank">
+Zu den Details.
+</a>
+
+<a
+  href="https://stift-heiligenkreuz.global.ssl.fastly.net/"
+  target="_blank">
+Zum Livestream
+(https://stift-heiligenkreuz.global.ssl.fastly.net/).
+</a>
