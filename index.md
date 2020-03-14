@@ -29,19 +29,19 @@ _<a
    https://www.radiomaria.at/
 </a>_
 
+Werktags gewöhnlich um 8 Uhr.
+
 <a
   href="https://www.radiomaria.at/unser-programm/programmheft/"
   target="_blank">
 Details im Programmheft.
 </a>
 
-Werktags gewöhnlich um 8 Uhr.
-
 <a
   href="https://www.radiomaria.at/fullscreen-radio-stream/"
   target="_blank">
 Zum Livestream
-(https://www.radiomaria.at/fullscreen-radio-stream/)
+(https://www.radiomaria.at/fullscreen-radio-stream/).
 </a>
 
 
