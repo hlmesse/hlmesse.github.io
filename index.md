@@ -30,7 +30,7 @@ _<a
    https://www.radiomaria.at/
 </a>_
 
-Werktags gewöhnlich um 8 Uhr.
+Gewöhnlich um 8 Uhr. An Sonn- und Feiertagen und manchen Samstagen lt. Programmheft.
 
 <a
   href="https://www.radiomaria.at/unser-programm/programmheft/"
