@@ -46,6 +46,37 @@ Zum Livestream
 </a>
 
 
+## Radio Horeb Deutschland (Audio)
+
+_<a
+   href="https://www.horeb.org/"
+   target="_blank">
+   https://www.horeb.org/
+</a>_
+
+Gewöhnlich um 9 Uhr. An Sonn- und Feiertagen um 10 Uhr.
+
+<a
+  href="https://www.horeb.org/programm/lebenshilfe/liturgie/"
+  target="_blank">
+Zu den Details.
+</a>
+
+<a
+  href="http://rs16.stream24.org:8000/horeb.mp3"
+  target="_blank">
+Zum Livestream (mp3)
+(http://rs16.stream24.org:8000/horeb.mp3).
+</a>
+
+<a
+  href="http://rs16.stream24.org:8100/horeb.aac"
+  target="_blank">
+Zum Livestream (AAC+)
+(http://rs16.stream24.org:8100/horeb.aac).
+</a>
+
+
 ## Stadtpfarre Hartberg (Video)
 
 _<a
