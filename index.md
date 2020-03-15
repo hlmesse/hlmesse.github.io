@@ -22,6 +22,29 @@ Zur YouTube Playlist "MISSIO-LIVE".
 </a>
 
 
+## Dompfarre Eisenstadt (Video)
+
+_<a
+   href="https://www.dompfarre-eisenstadt.at/"
+   target="_blank">
+   https://www.dompfarre-eisenstadt.at/
+</a>_
+
+Montag - Samstag um 18.30 Uhr. Sonntag um 11 Uhr.
+
+<a
+  href="https://www.dompfarre-eisenstadt.at/index.php/gottesdienste-termine/ankuendigungen/199-livestream-platzhalter"
+  target="_blank">
+Zu den Details.
+</a>
+
+<a
+  href="https://www.youtube.com/channel/UCBVimlLyujE6wlrbXYqlQtA"
+  target="_blank">
+Zum YouTube Kanal.
+</a>
+
+
 ## Radio Maria Österreich (Audio)
 
 _<a
