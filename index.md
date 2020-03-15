@@ -92,3 +92,9 @@ Zu den Details.
 Zum Livestream
 (https://stift-heiligenkreuz.global.ssl.fastly.net/).
 </a>
+
+
+
+### Kontakt
+
+Vorschläge, Korrekturen usw. bitte per Email an [hlmesse@mailbox.org](mailto:hlmesse@mailbox.org)
