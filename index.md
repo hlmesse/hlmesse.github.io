@@ -22,6 +22,27 @@ Zur YouTube Playlist "MISSIO-LIVE".
 </a>
 
 
+## Loretto Gebetskreis (Video)
+
+_<a
+   href="https://loretto.at/"
+   target="_blank">
+   https://loretto.at/
+</a>_
+
+<a
+  href="https://www.home-church.cc/"
+  target="_blank">
+Zu den Details (https://www.home-church.cc/).
+</a>
+
+<a
+  href="https://www.youtube.com/channel/UCkMngUkMuoOUuLvbUYw6XVg"
+  target="_blank">
+Zum YouTube Kanal.
+</a>
+
+
 ## Dompfarre Eisenstadt (Video)
 
 _<a
