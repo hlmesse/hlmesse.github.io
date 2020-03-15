@@ -46,6 +46,30 @@ Zum Livestream
 </a>
 
 
+## Stadtpfarre Hartberg (Video)
+
+_<a
+   href="https://hartberg.graz-seckau.at/"
+   target="_blank">
+   https://hartberg.graz-seckau.at/
+</a>_
+
+Jeden Sonntag um 10 Uhr.
+
+<a
+  href="https://hartberg.graz-seckau.at/internetgottesdienst"
+  target="_blank">
+Zu den Details.
+</a>
+
+<a
+  href="https://www.youtube.com/user/internetgottesdienst"
+  target="_blank">
+Zum YouTube Kanal
+(https://www.youtube.com/user/internetgottesdienst).
+</a>
+
+
 ## Stift Heiligenkreuz (Video)
 
 _<a
