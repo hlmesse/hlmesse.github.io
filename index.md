@@ -43,6 +43,29 @@ Zum YouTube Kanal.
 </a>
 
 
+## Erzdiözese Wien (Video)
+
+_<a
+   href="https://www.erzdioezese-wien.at/"
+   target="_blank">
+   https://www.erzdioezese-wien.at/
+</a>_
+
+Montag - Samstag um 8 Uhr.
+
+<a
+  href="https://www.erzdioezese-wien.at/morgenmesselive"
+  target="_blank">
+Zu den Details.
+</a>
+
+<a
+  href="https://www.youtube.com/c/Erzdi%C3%B6zeseWien"
+  target="_blank">
+Zum YouTube Kanal.
+</a>
+
+
 ## Dompfarre Eisenstadt (Video)
 
 _<a
