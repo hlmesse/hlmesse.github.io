@@ -22,6 +22,35 @@ Zur YouTube Playlist "MISSIO-LIVE".
 </a>
 
 
+## Pfarre Apetlon und Illmitz (Video)
+
+_<a
+   href="https://www.pfarre-apetlon.at/"
+   target="_blank">
+   https://www.pfarre-apetlon.at/
+</a>_
+
+_<a
+   href="https://www.pfarre-illmitz.at/"
+   target="_blank">
+   https://www.pfarre-illmitz.at/
+</a>_
+
+Montag - Samstag um 18 Uhr. Sonntag um 9 Uhr.
+
+<a
+  href="https://www.pfarre-apetlon.at/live-messen-mit-pfarrer-schweifer-und-unseren-seelsorgern/"
+  target="_blank">
+Zu den Details.
+</a>
+
+<a
+  href="https://www.youtube.com/channel/UCdCAb_U5dSGM_YnPXA1271g"
+  target="_blank">
+Zum YouTube Kanal.
+</a>
+
+
 ## Loretto Gebetskreis (Video)
 
 _<a
